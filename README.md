@@ -1,12 +1,16 @@
-<h1> Hey, World! ✌🏾😎 </h1>
+<h1> Olá, Eu sou o Diego Guilherme ✌🏾😎 </h1>
 <br>
+<div align="center">
+  <a href="https://github.com/diegoguilhermeDS">
+  <img height="180em" width="390px" src="https://github-readme-stats.vercel.app/api?username=diegoguilhermeDS&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoguilhermeDS&layout=compact&langs_count=7&theme=react"/>
+</div>
+<h2> 📑 Sobre mim </h2>
 
-<h2> 📑 About me </h2>
-
-* <p> 🌱 I’m currently learning: <strong>React, Next.js, TypeScript</strong></p>
-* <p> 🎯 My current goal: <strong>Full Stack Developer</strong></p>
-* <p> 📫 How to reach me: <strong>diegoguilherme752@gmail.com</strong></p>
-* <p> 💙 I <strong>love</strong> helping people starting out in the web development world.</p>
+* <p> 🌱 No momento estou aprendendo: <strong>React</strong></p>
+* <p> 🎯 Meu objetivo atual: <strong>Full Stack Developer</strong></p>
+* <p> 📫 Como chegar até mim: <strong>diegoguilherme752@gmail.com</strong></p>
+* <p> 💙 <strong>Adoro</strong> ajudar as pessoas que estão começando no mundo do desenvolvimento web.</p>
 
 <br>
 
@@ -23,7 +27,7 @@
 
 <br>
 
-<h2> 🌐 Social Networks </h2>
+<h2> 🌐 Redes sociais </h2>
 
   <a href="https://www.linkedin.com/in/diego-guilherme-616410200" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
