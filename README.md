@@ -2,8 +2,8 @@
 <br>
 <div align="center">
   <a href="https://github.com/diegoguilhermeDS">
-  <img height="180em" width="390px" src="https://github-readme-stats.vercel.app/api?username=diegoguilhermeDS&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoguilhermeDS&layout=compact&langs_count=7&theme=react"/>
+  <img height="180em" width="350px" src="https://github-readme-stats.vercel.app/api?username=diegoguilhermeDS&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="560px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoguilhermeDS&layout=compact&langs_count=7&theme=react"/>
 </div>
 <h2> 📑 Sobre mim </h2>
 
