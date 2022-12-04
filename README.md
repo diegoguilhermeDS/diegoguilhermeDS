@@ -1,18 +1,15 @@
-<h1> Olá, Eu sou o Diego Guilherme ✌🏾😎 </h1>
-<div align="center" width=100%>
-  <a href="https://github.com/diegoguilhermeDS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegoguilhermeDS&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-</div>
-<h2> 📑 Sobre mim </h2>
+# Hello, I'm Diego Guilherme ✌🏾😎
 
-* <p> 🌱 No momento estou aprendendo: <strong>React</strong></p>
-* <p> 🎯 Meu objetivo atual: <strong>Full Stack Developer</strong></p>
-* <p> 📫 Como chegar até mim: <strong>diegoguilherme752@gmail.com</strong></p>
-* <p> 💙 <strong>Adoro</strong> ajudar as pessoas que estão começando no mundo do desenvolvimento web.</p>
+## 📑 About Me:
+
+* <p> 🌱 I'm currently learning: <strong>React</strong></p>
+* <p> 🎯 my current goal: <strong>Full Stack Developer</strong></p>
+* <p> 📫 how to reach me: <strong>diegoguilherme752@gmail.com</strong></p>
+* <p> 💙 <strong>Love</strong> help people who are starting in the world of web development.</p>
 
 <br>
 
-<h2> 💪🏾 Hard Skills  </h2>
+## 💻 Tech Stack:
 
 <div style="display: inline_block">
    <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -25,7 +22,7 @@
 
 <br>
 
-<h2> 🌐 Redes sociais </h2>
+ ## 🌐 Socials:
 
   <a href="https://www.linkedin.com/in/diego-guilherme-616410200" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -39,3 +36,14 @@
   <a href = "mailto:diegoguilherme752@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+
+## 📊 GitHub Stats:
+<div align="start" width=100%>
+  <a href="https://github.com/diegoguilhermeDS">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegoguilhermeDS&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+</div>
+  
+  
+## 🏆 GitHub Trophies:
+  <img src="https://github-profile-trophy.vercel.app/?username=diegoguilhermeDS&theme=react&no-frame=false&no-bg=true&margin-w=4"/>
+  
