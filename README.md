@@ -15,6 +15,7 @@
    <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
    <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
@@ -41,8 +42,9 @@
 <div align="start" width=100%>
   <a href="https://github.com/diegoguilhermeDS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegoguilhermeDS&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img align="start" margin="50px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoguilhermeDS&layout=compact&langs_count=7&theme=react"/>
 </div>
-  
+
   
 ## 🏆 GitHub Trophies:
   <img src="https://github-profile-trophy.vercel.app/?username=diegoguilhermeDS&theme=react&no-frame=false&no-bg=true&margin-w=4"/>
