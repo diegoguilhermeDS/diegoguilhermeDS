@@ -42,8 +42,9 @@
 
 ## 📊 GitHub Stats:
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=diegoguilhermeDS&show_icons=true&count_private=true&hide_border=true&title_color=2BBEF2&icon_color=2BBEF2&text_color=EA37A3&bg_color=0d1117" alt="Diego Guilherme github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoguilhermeDS&layout=compact&hide_border=true&title_color=2BBEF2&text_color=2BBEF2&bg_color=0d1117" />
+  <a href="https://githube.com/diegoguilhermeDS">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=diegoguilhermeDS&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&" alt="Diego Guilherme github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoguilhermeDS&layout=compact&hide_border=true&title_color=2BBEF2&text_color=2BBEF2&bg_color=DEG,2BBEF2,F90093" />
 </div>
 
   
