@@ -4,7 +4,7 @@
 
 ## 📑 About Me:
 
-* <p> 🌱 I'm currently learning: <strong>ExpressJs</strong></p>
+* <p> 🌱 I'm currently learning: <strong>React</strong></p>
 * <p> 🎯 my current goal: <strong>Full Stack Developer</strong></p>
 * <p> 📫 how to reach me: <strong>diegoguilherme752@gmail.com</strong></p>
 * <p> 💙 <strong>Love</strong> help people who are starting in the world of web development.</p>
@@ -19,8 +19,16 @@
    <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
    <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img width="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Redux.svg">
+   <img width="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/StyledComponents.svg">
+   <img width="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MaterialUI-Dark.svg">
+   <img width="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg">
    <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img width="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Git.svg">
+  <img width="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Github-Dark.svg">
+  <img width="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VSCode-Dark.svg">
+  
 </div>
 
 <br>
@@ -43,8 +51,8 @@
 ## 📊 GitHub Stats:
 <div align="center">  
   <a href="https://githube.com/diegoguilhermeDS">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=diegoguilhermeDS&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&" alt="Diego Guilherme github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoguilhermeDS&layout=compact&hide_border=true&theme=algolia&title_color=2BBEF2&text_color=2BBEF2" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=diegoguilhermeDS&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=DEG,172026,027373&title_color=5FCDD9&text_color=fff&icon_color=399FAA" alt="Diego Guilherme github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoguilhermeDS&layout=compact&hide_border=true&langs_count=7&bg_color=DEG,027373,172026&title_color=5FCDD9&text_color=fff&icon_color=399FAA" />
 </div>
 
   
