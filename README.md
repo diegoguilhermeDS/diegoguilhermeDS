@@ -4,7 +4,7 @@
 
 ## 📑 About Me:
 
-* <p> 🌱 I'm currently learning: <strong>React</strong></p>
+* <p> 🌱 I'm currently learning: <strong>ExpressJs</strong></p>
 * <p> 🎯 my current goal: <strong>Full Stack Developer</strong></p>
 * <p> 📫 how to reach me: <strong>diegoguilherme752@gmail.com</strong></p>
 * <p> 💙 <strong>Love</strong> help people who are starting in the world of web development.</p>
