@@ -28,7 +28,8 @@
   <img width="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Git.svg">
   <img width="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Github-Dark.svg">
   <img width="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VSCode-Dark.svg">
-  
+  <img width="30" src="https://skillicons.dev/icons?i=express">
+  <img width="30" src="https://skillicons.dev/icons?i=postgres">
 </div>
 
 <br>
