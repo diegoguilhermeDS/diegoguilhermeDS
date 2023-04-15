@@ -10,8 +10,7 @@
 - <p> 🎯 my current goal: <strong>Full Stack Developer</strong></p>
 - <p> 📫 how to reach me: <strong>diegoguilherme752@gmail.com</strong></p>
 - <p> 💙 <strong>Love</strong> help people who are starting in the world of web development.</p>
-
-#
+<br/>
 
 ## 💻 Skills:
 
@@ -23,13 +22,10 @@
 >
 > <img width="17%" src="https://skillicons.dev/icons?i=py,django,express,postgres">
 
-#
-
 ## 🧰 Tools:
 
 > <img width="18%" src="https://skillicons.dev/icons?i=figma,git,github,vscode,vercel">
-
-#
+<br/>
 
 ## 🌐 Socials:
 
@@ -37,7 +33,8 @@
 [![](https://img.shields.io/badge/-Instagram-red?style=for-the-badge&logo=instagram&logoColor=white&color=F724E5)](https://www.instagram.com/dihguilhermee/)
 [![](https://img.shields.io/badge/-gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegoguilherme752@gmail.com)
 
-#
+<br/>
+<br/>
 
 ## 📊 GitHub Stats:
 
@@ -46,8 +43,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=diegoguilhermeDS&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=DEG,172026,027373&title_color=5FCDD9&text_color=fff&icon_color=399FAA" alt="Diego Guilherme github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoguilhermeDS&layout=compact&hide_border=true&langs_count=7&bg_color=DEG,027373,172026&title_color=5FCDD9&text_color=fff&icon_color=399FAA" />
 </div>
-
-#
+<br/>
 
 ## 🏆 GitHub Trophies:
 
