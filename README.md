@@ -1,7 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=Waving&&color=gradient&customColorList=19&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=027373&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Diego+Guilherme;I'm+a+Front+End+developer;Welcome!+💙)](https://git.io/typing-svg)
-<img src="img/octocat-1681579723467.png" style="width: 200px;" align="right"/>
+
+<img src="img/octocat-1681579723467.png" style="width: 240px;" align="right"/>
 
 ## 📑 About Me:
 
@@ -16,17 +17,17 @@
 
 > ### Front End
 >
-> <img width="90%" src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,styledcomponents,materialui"><br/>
+> <img width="40%" src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,styledcomponents,materialui"><br/>
 
 > ### Back End
 >
-> <img width="44%" src="https://skillicons.dev/icons?i=py,django,express,postgres">
+> <img width="17%" src="https://skillicons.dev/icons?i=py,django,express,postgres">
 
 #
 
 ## 🧰 Tools:
 
-> <img width="44%" src="https://skillicons.dev/icons?i=figma,git,github,vscode,vercel">
+> <img width="18%" src="https://skillicons.dev/icons?i=figma,git,github,vscode,vercel">
 
 #
 
