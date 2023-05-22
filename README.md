@@ -20,11 +20,11 @@
 
 > ### Back End
 >
-> <img width="17%" src="https://skillicons.dev/icons?i=nodejs,express,postgres,py,django,mongodb">
+> <img width="24%" src="https://skillicons.dev/icons?i=nodejs,express,postgres,py,django,mongodb">
 
 ## 🧰 Tools:
 
-> <img width="18%" src="https://skillicons.dev/icons?i=figma,git,github,vscode,vercel,aws,jest,vite">
+> <img width="28%" src="https://skillicons.dev/icons?i=figma,git,github,vscode,vercel,aws,jest,vite">
 <br/>
 
 ## 🌐 Socials:
