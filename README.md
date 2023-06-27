@@ -6,7 +6,7 @@
 
 ## 📑 About Me:
 
-- <p> 🌱 I'm currently learning: <strong>NextJs</strong></p>
+- <p> 🌱 I'm currently learning: <strong>Java</strong></p>
 - <p> 🎯 my current goal: <strong>Full Stack Developer</strong></p>
 - <p> 📫 how to reach me: <strong>diegoguilherme752@gmail.com</strong></p>
 - <p> 💙 <strong>Love</strong> help people who are starting in the world of web development.</p>
@@ -16,15 +16,19 @@
 
 > ### Front End
 >
-> <img width="40%" src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,styledcomponents,materialui"><br/>
+> <img width="50%" src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,styledcomponents,materialui"><br/>
 
 > ### Back End
 >
-> <img width="24%" src="https://skillicons.dev/icons?i=nodejs,express,postgres,py,django,mongodb">
+> <img width="40%" src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,py,django,mongodb,java">
+
+> ### Game
+>
+> <img width="4%" src="https://skillicons.dev/icons?i=cs">
 
 ## 🧰 Tools:
 
-> <img width="28%" src="https://skillicons.dev/icons?i=figma,git,github,vscode,vercel,aws,jest,vite,docker">
+> <img width="50%" src="https://skillicons.dev/icons?i=figma,git,github,vscode,visualstudio,vercel,aws,jest,vite,docker,unity">
 <br/>
 
 ## 🌐 Socials:
