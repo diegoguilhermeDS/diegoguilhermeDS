@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=Waving&&color=gradient&customColorList=19&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=Waving&&color=0:181F2C,50:098DF0,100:181F2C&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=027373&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Diego+Guilherme;I'm+a+Front+End+developer;Welcome!+💙)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DB8A6C&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Diego+Guilherme;I'm+a+Front+End+developer;Welcome!+💙)](https://git.io/typing-svg)
 
 <img src="img/octocat-1681579723467.png" style="width: 240px;" align="right"/>
 
@@ -8,7 +8,7 @@
 
 - <p> 🌱 I'm currently learning: <strong>PHP</strong></p>
 - <p> 🎯 my current goal: <strong>Full Stack Developer</strong></p>
-- <p> 📫 how to reach me: <strong>diegoguilherme752@gmail.com</strong></p>
+- <p> 📫 how to reach me: <strong>diegoguilherme752@outlook.com</strong></p>
 - <p> 💙 <strong>Love</strong> help people who are starting in the world of web development.</p>
 <br/>
 
@@ -44,8 +44,8 @@
 
 <div align="center">  
   <a href="https://githube.com/diegoguilhermeDS">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=diegoguilhermeDS&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=DEG,172026,027373&title_color=5FCDD9&text_color=fff&icon_color=399FAA" alt="Diego Guilherme github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoguilhermeDS&layout=compact&hide_border=true&langs_count=7&bg_color=DEG,027373,172026&title_color=5FCDD9&text_color=fff&icon_color=399FAA" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=diegoguilhermeDS&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=DEG,181F2C,098DF0,181F2C&title_color=5FCDD9&text_color=fff&icon_color=399FAA" alt="Diego Guilherme github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoguilhermeDS&layout=compact&hide_border=true&langs_count=7&bg_color=DEG,181F2C,098DF0,181F2C&title_color=5FCDD9&text_color=fff&icon_color=399FAA" />
 </div>
 <br/>
 
