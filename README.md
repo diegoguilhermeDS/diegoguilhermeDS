@@ -5,8 +5,7 @@
 <img src="img/octocat-1681579723467.png" style="width: 240px;" align="right"/>
 
 ## 📑 About Me:
-
-- <p> 🌱 I'm currently learning: <strong>PHP</strong></p>
+- <p style="display: flex; align-items: center; justify-content: center; align-items: center;"> 🌱 I'm currently learning: <strong>GO <img width="3%" src="https://skillicons.dev/icons?i=go"></strong></p>
 - <p> 🎯 my current goal: <strong>Full Stack Developer</strong></p>
 - <p> 📫 how to reach me: <strong>diegoguilherme752@outlook.com</strong></p>
 - <p> 💙 <strong>Love</strong> help people who are starting in the world of web development.</p>
@@ -16,19 +15,19 @@
 
 > ### Front End
 >
-> <img width="50%" src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,styledcomponents,materialui"><br/>
+> <img width="500px" src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,styledcomponents,materialui,astro"><br/>
 
 > ### Back End
 >
-> <img width="40%" src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,py,django,mongodb,java">
+> <img width="500px" src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,py,django,mongodb,java,firebase,prisma">
 
 > ### Game
 >
-> <img width="4%" src="https://skillicons.dev/icons?i=cs">
+> <img width="38px" src="https://skillicons.dev/icons?i=cs">
 
 ## 🧰 Tools:
 
-> <img width="50%" src="https://skillicons.dev/icons?i=figma,git,github,vscode,visualstudio,vercel,aws,jest,vite,docker,unity">
+> <img width="600px" src="https://skillicons.dev/icons?i=figma,git,github,gitlab,vscode,visualstudio,pycharm,vercel,aws,azure,jest,vite,docker,unity">
 <br/>
 
 ## 🌐 Socials:
