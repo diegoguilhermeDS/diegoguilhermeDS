@@ -5,8 +5,8 @@
 <img src="img/octocat-1681579723467.png" style="width: 240px;" align="right"/>
 
 ## 📑 About Me:
-- <p style="display: flex; align-items: center; justify-content: center; align-items: center;"> 🌱 I'm currently learning: <strong>GO <img width="3%" src="https://skillicons.dev/icons?i=go"></strong></p>
-- <p> 🎯 my current goal: <strong>Full Stack Developer</strong></p>
+- <p style="display: flex; align-items: center; justify-content: center; align-items: center;"> 🌱 I'm currently learning: <strong>Docker + Kubernetes <img width="6%" src="https://skillicons.dev/icons?i=docker,kubernetes"></strong></p>
+- <p> 🎯 my current goal: My focus is on creating innovative projects that span <strong>frontend, backend and games.</strong></p>
 - <p> 📫 how to reach me: <strong>diegoguilherme752@outlook.com</strong></p>
 - <p> 💙 <strong>Love</strong> help people who are starting in the world of web development.</p>
 <br/>
@@ -19,7 +19,7 @@
 
 > ### Back End
 >
-> <img width="500px" src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,py,django,mongodb,java,firebase,prisma">
+> <img width="500px" src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,py,django,mongodb,java,firebase,prisma,go">
 
 > ### Game
 >
