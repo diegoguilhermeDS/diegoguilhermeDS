@@ -44,18 +44,3 @@
 [![](https://img.shields.io/badge/-gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegoguilherme752@gmail.com)
 
 <br/>
-
-## 📊 GitHub Stats:
-
-<div align="center">  
-  <a href="https://githube.com/diegoguilhermeDS">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=diegoguilhermeDS&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=DEG,181F2C,098DF0,181F2C&title_color=5FCDD9&text_color=fff&icon_color=399FAA" alt="Diego Guilherme github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoguilhermeDS&layout=compact&hide_border=true&langs_count=7&bg_color=DEG,181F2C,098DF0,181F2C&title_color=5FCDD9&text_color=fff&icon_color=399FAA" />
-</div>
-<br/>
-
-## 🏆 GitHub Trophies:
-
- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=diegoguilhermeDS&theme=algolia&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
